@@ -20,19 +20,6 @@ Self-contained Skillable lab for **Workshop 1 – APIs and Services**. Implement
 
 Complete the methods in `src/main/java/com/jse/module06/lab01/ApiClient.java`, then uncomment the example calls in `Lab01ApisServicesApplication.run()` to test against [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
-## Pushing to Git
-
-This folder is intended to be a separate Git repository:
-
-```bash
-cd output/jse/module-06/lab-01-apis-services
-git init
-git add .
-git commit -m "Initial commit: Lab 1 APIs and Services starter and Skillable instructions"
-git remote add origin <your-repo-url>
-git push -u origin main
-```
-
 ## Lab alignment
 
 - **Module:** JSE Module 6 – Building APIs in Java  
